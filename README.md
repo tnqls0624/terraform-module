@@ -1,6 +1,6 @@
 # terraform-modules
 
-repository of useful terraform modules
+테라폼 사용하기 위한 모듈
 
 # Usage
 
